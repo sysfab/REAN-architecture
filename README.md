@@ -14,4 +14,6 @@ disadvantages:
   - requires dedicated external word2vec model
   - still really bad performance
 
+if you want to just run the model and play around, go to the run_model.ipynb file, load the correct weights + word2vec, and run all.
+
 feel free to actually add a good readme, this is just a placeholder :)
