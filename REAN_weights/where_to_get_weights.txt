@@ -1,0 +1,4 @@
+just make sure that the embeddings model you are using matches the REAN weights.
+
+drive folder with 3 models from the video:
+https://drive.google.com/drive/u/0/folders/1MRv-zJvbhcy6OB1OoT0JJBSaO7qna_Qf

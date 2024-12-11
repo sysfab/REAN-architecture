@@ -1,0 +1,16 @@
+this place is only relevant if you are planning on training (gl).
+the dataset is just a single big .txt file and is going to be read just like a normal text file.
+so if the dataset looks like:
+
+human: bla bla bla
+network: yap yap yap
+etc...
+
+your model will mimic this pattern
+if it has freeform-style text, the network will mimic that.
+
+*remember: when you are training a new REAN model, you HAVE to make sure it matches your word2vec.
+and a new word2vec wont work on older REAN models.
+
+download ULTRACHAT dataset (not cleaned up):
+https://github.com/thunlp/UltraChat

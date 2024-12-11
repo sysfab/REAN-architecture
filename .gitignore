@@ -1,0 +1,11 @@
+# Ignore all gensim word2vec .model files
+*.model
+
+# Ignore all pytorch weights .pth files
+*.pth
+
+# Ignore all gensim's util .npy files
+*.npy
+
+# its not in gitignore because txts are used elsewhere,
+# but dont upload 100TB datasets to the repo :)

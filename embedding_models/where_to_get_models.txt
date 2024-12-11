@@ -1,0 +1,10 @@
+first:
+the embedding model needs to match the REAN weights you are using.
+make sure they match.
+
+second:
+the gensim library saves word2vec models in .model files.
+if the word2vec is too large, it will have 2 accompanying files.
+regardless, place all files in this folder (together).
+
+download the model weights here:
