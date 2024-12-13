@@ -23,3 +23,6 @@ REAN takes a different approach, directly predicting the embedding of the next t
 ### Training REAN model:
 * Load word embedding model and the plaintext dataset.
 * Configure and execute the `train_REAN.ipynb` notebook to train and test the model.
+
+more info in this vid:
+https://www.youtube.com/watch?v=ECx2oLYXRms

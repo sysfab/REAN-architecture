@@ -8,4 +8,4 @@ if the word2vec is too large, it will have 2 accompanying files.
 regardless, place all files in this folder (together).
 
 download the model weights here:
-https://drive.google.com/drive/u/0/folders/1pFLwH2iUsjTEiAbBfMjYAjdpVrtXSR9w?q=sharedwith:public%20parent:1pFLwH2iUsjTEiAbBfMjYAjdpVrtXSR9w
+https://drive.google.com/drive/u/0/folders/1pFLwH2iUsjTEiAbBfMjYAjdpVrtXSR9w
